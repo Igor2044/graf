@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         var show_path = findViewById<Button>(R.id.show_path)
         var vertex = findViewById<EditText>(R.id.vertex)
+        var edge = findViewById<EditText>(R.id.edge)
+        var value_user = findViewById<EditText>(R.id.value_user)
     }
 }
